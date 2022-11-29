@@ -17,7 +17,7 @@ public class number {
                     System.out.print("Разные цифры");
                     break;
                 }else{
-                    System.out.print("Одинаковые цифры");
+                    System.out.print("Одинаковые цифры. Изменил на GitHub.");
                     break;
                 }
             }
